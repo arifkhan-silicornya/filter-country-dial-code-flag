@@ -1,0 +1,29 @@
+{
+  "name": "filter-country-dial-code-flag",
+  "version": "1.0.0",
+  "description": "All Country List with country code, dial Code , flag, name, Country code. And a filter system by dial code and country name and country code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arifkhan-silicornya/filter-country-dial-code-flag.git"
+  },
+  "keywords": [
+    "Country-code",
+    "Dial-code",
+    "Flag",
+    "Country-name",
+    "phone"
+  ],
+  "author": "MD ARIF KHAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arifkhan-silicornya/filter-country-dial-code-flag/issues"
+  },
+  "homepage": "https://github.com/arifkhan-silicornya/filter-country-dial-code-flag#readme",
+  "dependencies": {
+    "country-list-with-dial-code-and-flag": "^1.0.3"
+  }
+}
