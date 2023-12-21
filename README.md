@@ -2,12 +2,10 @@
 Node package. All Country List with country code, dial Code , flag, name, Country code. And a filter system by dial code and country name and country code
 
 
-
-![npm](https://img.shields.io/npm/v/filter-country-dial-code-flag)
-![npm](https://img.shields.io/npm/l/filter-country-dial-code-flag?color=002350)
-![npm](https://img.shields.io/bundlephobia/minzip/filter-country-dial-code-flag/1.0.1)
-
-
+![npm](https://img.shields.io/npm/v/filter-country-dial-code-flag?style=plastic)
+![npm](https://img.shields.io/npm/l/filter-country-dial-code-flag?color=002350?style=plastic)
+![npm](https://img.shields.io/bundlephobia/minzip/filter-country-dial-code-flag?style=plastic)
+![npm](https://img.shields.io/npm/dt/filter-country-dial-code-flag?style=plastic)
 
 
 ## Install it via npm
