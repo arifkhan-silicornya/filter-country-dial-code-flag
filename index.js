@@ -1,8 +1,8 @@
-const CountryList = require("country-list-with-dial-code-and-flag");
+let CountryList = require("./data.json");
 
 function AllData(param = null){
     let arr = [];
-    if(param === "undefined" || param === "" || param === null){
+    if(param === "undefined" || param === undefined || param === "" || param === null){
         CountryList.map((data)=>{
             arr.push(data)
         })

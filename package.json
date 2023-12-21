@@ -18,12 +18,9 @@
     "phone"
   ],
   "author": "MD ARIF KHAN",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/arifkhan-silicornya/filter-country-dial-code-flag/issues"
   },
-  "homepage": "https://github.com/arifkhan-silicornya/filter-country-dial-code-flag#readme",
-  "dependencies": {
-    "country-list-with-dial-code-and-flag": "^1.0.3"
-  }
+  "homepage": "https://github.com/arifkhan-silicornya/filter-country-dial-code-flag#readme"
 }
